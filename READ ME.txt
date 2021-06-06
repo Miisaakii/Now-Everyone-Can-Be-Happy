@@ -1,0 +1,11 @@
+This program has been created by Misakiii
+discord: Misaki#2121
+
+For use it, press the button Protected From WebHook.
+Now every program you will open with a webhook like (token grabber, infos, or anythings) will not working or return you a error from the app saying the webhook has failed
+
+while the protection is enabled, if you restart your discord (app) it's will not working, press reset to default for make it working again so, when you use the protection
+don't restart your discord, if your discord crash or restart don't worry it's okay you just need reset for go again on the discord app and re enable the protection.
+
+hope it's will protect you very good, for me it's fine !
+enjoy !
